@@ -1,0 +1,37 @@
+package LargeClass.extractInterface.solution;
+
+public class Cat implements Animal{
+
+	Cat() {
+
+	}
+
+	@Override
+	public void mouth() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void eye() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void tail() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void eair() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+
+	
+
+}

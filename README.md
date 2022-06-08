@@ -1,1 +1,1 @@
-Design Patternclear!
+Design Pattern!
